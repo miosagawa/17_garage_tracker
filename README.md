@@ -1,4 +1,4 @@
-# Project 2 Template
+# Project 3 Template
 
 ## BEFORE YOU BEGIN 
 1. Run `db/schema.sql` to create your database
